@@ -125,10 +125,22 @@
 
 ## Modularização
 
+[Documentação do Modular [Documentação]](https://modular.flutterando.com.br/docs/intro/)
 
+[Introdução à modularização de projeto [Vídeo]](https://www.youtube.com/watch?v=N9XK64hjlOQ)
 
+[Introdução ao Modular [Vídeo]](https://www.youtube.com/watch?v=EdHbE817gyo)
+
+[Roteamento com o Modular [Vídeo]](https://www.youtube.com/watch?v=idaCfJJIyyg)
+
+[Modular em 10 minutos [Vídeo]](https://www.youtube.com/watch?v=C83rqWVQ_sE)
+
+[Novidades no Modular 6 [Vídeo]](https://www.youtube.com/watch?v=xAiq8DzR65s)
+
+---
 
 ## FVM
 
+[Documentação FVM [Documentação]](https://fvm.app/documentation/getting-started)
 
-
+[Controlando versão do Flutter com FVM [Vídeo]](https://www.youtube.com/watch?v=9n5dLXJMSqU)
