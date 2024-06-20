@@ -26,6 +26,8 @@
 ## Boas práticas
 [Estrutura do código [Documentação]](https://dart.dev/effective-dart/style)
 
+[Arquitetura para o Flutter [Vídeo]](https://www.youtube.com/watch?v=6i-n_h1xgIs)
+
 [Uso do código [Documentação]](https://dart.dev/effective-dart/usage)
 
 [Design do código [Documentação]](https://dart.dev/effective-dart/design)
@@ -62,6 +64,8 @@
 
 [Estado local (Efêmero) e estado global (App) [Documentação]](https://docs.flutter.dev/data-and-backend/state-mgmt/ephemeral-vs-app)
 
+[Tudo que precisa saber sobre gerenciamento de estados no Flutter [Vídeo]](https://www.youtube.com/watch?v=XGjCatQadrk)
+
 
 ### ChangeNotifier / ValueNotifier
 
@@ -70,7 +74,6 @@
 [Classe ChangeNotifier [Documentação]](https://api.flutter.dev/flutter/foundation/ChangeNotifier-class.html)
 
 [Usando ChangeNotifier para gerenciar estados [Vídeo]](https://www.youtube.com/watch?v=Xwuw-U7AHiY)
-
 
 [Exemplo de gerenciamento de estado simples [Documentação]](https://docs.flutter.dev/data-and-backend/state-mgmt/simple)
 
